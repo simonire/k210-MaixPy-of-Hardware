@@ -47,13 +47,14 @@ SSD1306.py
 
 连接上Maix，选择发送文件到开发板，选择`SSD1306.py`
 
-
+![a1](https://github.com/simonire/k210-MaixPy-of-Hardware/blob/master/ssd1306/images/a1.png)
 
 之后新建一个`hello.py`
 
+![a2](https://github.com/simonire/k210-MaixPy-of-Hardware/blob/master/ssd1306/images/a2.png)
 
-
-
+![a3](https://github.com/simonire/k210-MaixPy-of-Hardware/blob/master/ssd1306/images/a3.png)
 
 就可以显示了。
 
+![a4](https://github.com/simonire/k210-MaixPy-of-Hardware/blob/master/ssd1306/images/a4.jpg)
