@@ -47,14 +47,14 @@ SSD1306.py
 
 连接上Maix，选择发送文件到开发板，选择`SSD1306.py`
 
-![a1](F:\GitHub project\K210 MaixPy of Hardware\ssd1306\pic\a1.png)
+![a1](F:\GitHub project\K210 MaixPy of Hardware\ssd1306\a1.png)
 
 之后新建一个`hello.py`
 
-![a2](F:\GitHub project\K210 MaixPy of Hardware\ssd1306\pic\a2.png)
+![a2](F:\GitHub project\K210 MaixPy of Hardware\ssd1306\a2.png)
 
-![a3](F:\GitHub project\K210 MaixPy of Hardware\ssd1306\pic\a3.png)
+![a3](F:\GitHub project\K210 MaixPy of Hardware\ssd1306\a3.png)
 
 就可以显示了。
 
-![a4](F:\GitHub project\K210 MaixPy of Hardware\ssd1306\pic\a4.JPG)
+![a4](F:\GitHub project\K210 MaixPy of Hardware\ssd1306\a4.JPG)
