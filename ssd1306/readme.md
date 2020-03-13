@@ -57,4 +57,4 @@ SSD1306.py
 
 就可以显示了。
 
-![a4](https://github.com/simonire/k210-MaixPy-of-Hardware/blob/master/ssd1306/images/a4.jpg)
+![a4](https://github.com/simonire/k210-MaixPy-of-Hardware/blob/master/ssd1306/images/a4.JPG)
