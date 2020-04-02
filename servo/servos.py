@@ -10,6 +10,12 @@ class Servos:
         self.tim = Timer(id, channel, mode=Timer.MODE_PWM)
         self.ch  = PWM(self.tim, freq=50, duty=0, pin=pin)
 
+    def setting_degree(self, func ,angle):
+        if func == True :
+            self.Servo_Open_Degree = angle
+        else :
+            self.Servo_Close_Degree = angle
+
     # 舵机转动范围：-90 ~ 90
     def set(self,angle):
         self.ch.duty((angle+90)/180*10+2.5)
