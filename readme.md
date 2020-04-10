@@ -20,7 +20,7 @@
 
 `MaixPy`全资料下载站【https://cn.dl.sipeed.com/MAIX】
 
-![a1](C:\Users\Simon\Desktop\2020BY\K210\src\img\a1.jpg)
+![](https://github.com/simonire/k210-MaixPy-of-Hardware/blob/master/img/M1_pin%5B1%5D.png)
 
 
 
@@ -62,7 +62,7 @@
 
 ### - M1n  
 
-<img src="C:\Users\Simon\Desktop\2020BY\K210\src\img\20200410194244.png" style="zoom:67%;" />
+![](https://github.com/simonire/k210-MaixPy-of-Hardware/blob/master/img/20200410194244.png)
 
 M1n采用的是M.2的金手指接口，通过对应的底座，可以将K210的引脚都引出到底板上，相比于M1/M1W模组，这种核心板更易于更换与维修。其核心板上板载了一个`24Pin FPC 前插后翻`接口的DVP摄像头。
 
@@ -86,15 +86,13 @@ M1n采用的是M.2的金手指接口，通过对应的底座，可以将K210的�
 
 要么烧录时出现下载不进，或者一上手就打开IDE运行代码的情况：
 
-<img src="C:\Users\Simon\Desktop\2020BY\K210\src\img\faq\1.png" alt="1" style="zoom:67%;" />
+![](https://github.com/simonire/k210-MaixPy-of-Hardware/blob/master/img/faq/1.png)
 
-<img src="C:\Users\Simon\Desktop\2020BY\K210\src\img\faq\2.png" alt="2" style="zoom:67%;" />
+![](https://github.com/simonire/k210-MaixPy-of-Hardware/blob/master/img/faq/2.png)
 
+![](https://github.com/simonire/k210-MaixPy-of-Hardware/blob/master/img/faq/3.png)
 
-
-![3](C:\Users\Simon\Desktop\2020BY\K210\src\img\faq\3.jpg)
-
-<img src="C:\Users\Simon\Desktop\2020BY\K210\src\img\faq\4.jpg" alt="4" style="zoom:67%;" />
+![](https://github.com/simonire/k210-MaixPy-of-Hardware/blob/master/img/faq/4.png)
 
 
 
@@ -104,11 +102,11 @@ M1n采用的是M.2的金手指接口，通过对应的底座，可以将K210的�
 
 插上开发板如果不是显示以下的一种情况，就去打驱动：
 
-![a3](C:\Users\Simon\Desktop\2020BY\K210\src\img\a3.png)
+![](https://github.com/simonire/k210-MaixPy-of-Hardware/blob/master/img/a3.png)
 
 或者
 
-![a4](C:\Users\Simon\Desktop\2020BY\K210\src\img\a4.png)
+![](https://github.com/simonire/k210-MaixPy-of-Hardware/blob/master/img/a4.png)
 
 
 
@@ -134,7 +132,7 @@ M1n采用的是M.2的金手指接口，通过对应的底座，可以将K210的�
 
 按时间（**Modified**）排序，最靠前的点进去下载，这里以**maixpy_v0.5.0_36_gc3acf79**为例：
 
-![a2](C:\Users\Simon\Desktop\2020BY\K210\src\img\a2.png)
+![](https://github.com/simonire/k210-MaixPy-of-Hardware/blob/master/img/a2.png)
 
 其中，
 
@@ -168,7 +166,11 @@ M1n采用的是M.2的金手指接口，通过对应的底座，可以将K210的�
 
 ## 4  使用MaixPy IDE
 
-![a5](C:\Users\Simon\Desktop\2020BY\K210\src\img\a5.png)
+
+
+![](https://github.com/simonire/k210-MaixPy-of-Hardware/blob/master/img/a5.png)
+
+
 
 仔细阅读此部分文档。
 
