@@ -20,7 +20,7 @@
 
 `MaixPy`全资料下载站【https://cn.dl.sipeed.com/MAIX】
 
-![](https://github.com/simonire/k210-MaixPy-of-Hardware/blob/master/img/M1_pin%5B1%5D.png)
+![](https://github.com/simonire/k210-MaixPy-of-Hardware/blob/master/img/a1.jpg)
 
 
 
