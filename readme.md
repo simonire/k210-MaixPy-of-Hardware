@@ -90,9 +90,9 @@ M1n采用的是M.2的金手指接口，通过对应的底座，可以将K210的�
 
 ![](https://github.com/simonire/k210-MaixPy-of-Hardware/blob/master/img/faq/2.png)
 
-![](https://github.com/simonire/k210-MaixPy-of-Hardware/blob/master/img/faq/3.png)
+![](https://github.com/simonire/k210-MaixPy-of-Hardware/blob/master/img/faq/3.jpg)
 
-![](https://github.com/simonire/k210-MaixPy-of-Hardware/blob/master/img/faq/4.png)
+![](https://github.com/simonire/k210-MaixPy-of-Hardware/blob/master/img/faq/4.jpg)
 
 
 
