@@ -8,7 +8,33 @@
 
 ​	---...
 
+--------------------------------------------------------------------------------------------------------------
 
+### PS：如何在py文件内导入其他python库文件
+
+首先，我们知道，python3中导入库有三种写法：
+
+```python
+import video
+from sys import *
+from Maix import GPIO
+```
+
+假如有一个a.py文件内有一个class b方法
+
+我们使用```from a import b，例如ssd1306.py内的Oled方法：
+
+![](https://github.com/simonire/k210-MaixPy-of-Hardware/blob/master/img/CC.png)
+
+就可以在另一个文件中使用```from ssd1306 import Oled```进行调用。
+
+前提是你已经插上sd卡，并且将要导入的文件发送到sd卡：
+
+![](https://github.com/simonire/k210-MaixPy-of-Hardware/blob/master/img/DD.png)
+
+
+
+--------------------------------------------------------------------------------------------------------------
 
 # K210 MaixPy 新手使用指南
 
